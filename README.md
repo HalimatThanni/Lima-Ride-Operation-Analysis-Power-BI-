@@ -14,6 +14,20 @@ Lima Ride wanted to understand how its business evolved between June 2021 and De
 
 This project involved cleaning and validating operational data, designing a dimensional data model, creating DAX measures, and developing an interactive Power BI dashboard that transforms raw ride data into actionable business insights.
 
+### Skills Demonstrated
+This project demonstrates practical experience in:
+- Power Query
+- Data Cleaning
+- Data Validation
+- Data Modelling
+- Star Schema Design
+- DAX
+- KPI Development
+- Business Intelligence
+- Dashboard Design
+- Data Storytelling
+- Business Recommendation Development
+
 ### Business Problem
 Management needed answers to questions such as:
 * Is revenue growing consistently over time?
@@ -119,20 +133,6 @@ Based on the findings, Lima Ride should consider:
 * Strengthening customer retention initiatives for newer riders
 * Encouraging digital payments through rider rewards and promotions
 * Monitoring quarterly performance to identify seasonal demand patterns
-
-### Skills Demonstrated
-This project demonstrates practical experience in:
-- Power Query
-- Data Cleaning
-- Data Validation
-- Data Modelling
-- Star Schema Design
-- DAX
-- KPI Development
-- Business Intelligence
-- Dashboard Design
-- Data Storytelling
-- Business Recommendation Development
 
 ### Dashboard Preview
 **Executive Dashboard (Dark Mode)**

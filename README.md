@@ -1,11 +1,11 @@
 # Lima Ride Operation Analysis (Power BI)
 **Dark Mode**
 
-<img width="356" height="123" alt="First Page (dark)" src="https://github.com/user-attachments/assets/884e2b0f-800e-48c9-9ce5-89385e8a84a6" /> <img width="348" height="120" alt="Second Page (dark)" src="https://github.com/user-attachments/assets/b9d8a4f8-dead-4632-be03-51386868fbad" />
+<img width="356" height="223" alt="First Page (dark)" src="https://github.com/user-attachments/assets/884e2b0f-800e-48c9-9ce5-89385e8a84a6" /> <img width="348" height="220" alt="Second Page (dark)" src="https://github.com/user-attachments/assets/b9d8a4f8-dead-4632-be03-51386868fbad" />
 
 **Light Mode**
 
-<img width="360" height="122" alt="First Page (light)" src="https://github.com/user-attachments/assets/e380fd45-6a3b-460a-b2aa-3532dc8c8742" /> <img width="357" height="122" alt="Second Page (light)" src="https://github.com/user-attachments/assets/f7d53b40-972c-498b-906f-c21fe9ef3e87" />
+<img width="360" height="222" alt="First Page (light)" src="https://github.com/user-attachments/assets/e380fd45-6a3b-460a-b2aa-3532dc8c8742" /> <img width="357" height="222" alt="Second Page (light)" src="https://github.com/user-attachments/assets/f7d53b40-972c-498b-906f-c21fe9ef3e87" />
 
 
 ### Project Overview
